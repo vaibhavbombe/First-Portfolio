@@ -1,2 +1,2 @@
 Portfolio -
-My first web development project - my portfolio
+My first web development project
